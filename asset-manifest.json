@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BigCelz/parcels-react/static/css/main.e1016191.css",
+    "main.js": "/BigCelz/parcels-react/static/js/main.401083cb.js",
+    "static/js/453.741b9d79.chunk.js": "/BigCelz/parcels-react/static/js/453.741b9d79.chunk.js",
+    "static/media/word3.jpg": "/BigCelz/parcels-react/static/media/word3.005d756d19955380cc9b.jpg",
+    "static/media/unis22.jpg": "/BigCelz/parcels-react/static/media/unis22.206f8169ea313a09d2f9.jpg",
+    "static/media/img4.jpg": "/BigCelz/parcels-react/static/media/img4.70b4f620b08b8d36f62d.jpg",
+    "static/media/img2.jpg": "/BigCelz/parcels-react/static/media/img2.c95ee351b96f19786a3e.jpg",
+    "static/media/img1.jpg": "/BigCelz/parcels-react/static/media/img1.6a51c3c2c226eb903a5c.jpg",
+    "static/media/ny.jpg": "/BigCelz/parcels-react/static/media/ny.40b95126cd08b1d2c6d4.jpg",
+    "static/media/user3.jpg": "/BigCelz/parcels-react/static/media/user3.323f5e7564ea40e9e4fb.jpg",
+    "static/media/word2.jpg": "/BigCelz/parcels-react/static/media/word2.3c95d5385926b0e1d19a.jpg",
+    "static/media/word1.jpg": "/BigCelz/parcels-react/static/media/word1.45d08eb45fc6d1faeda0.jpg",
+    "index.html": "/BigCelz/parcels-react/index.html",
+    "main.e1016191.css.map": "/BigCelz/parcels-react/static/css/main.e1016191.css.map",
+    "main.401083cb.js.map": "/BigCelz/parcels-react/static/js/main.401083cb.js.map",
+    "453.741b9d79.chunk.js.map": "/BigCelz/parcels-react/static/js/453.741b9d79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1016191.css",
+    "static/js/main.401083cb.js"
+  ]
+}
