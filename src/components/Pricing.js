@@ -58,7 +58,7 @@ function Pricing() {
                                             {
                                                 pricing.features.map((feature, index) => {
                                                     return(
-                                                    <ListGroup.Item key={index}>{feature}</ListGroup.Item>  
+                                                     <ListGroup.Item className="no-border" key={index}>{feature}</ListGroup.Item>  
                                                     )
                                                 })
                                             }
