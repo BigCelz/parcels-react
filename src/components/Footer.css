@@ -1,0 +1,19 @@
+#footer{
+    text-align: center;
+    background-color: orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.socials-icon{
+    list-style: none;
+    display: flex;
+}
+
+.soci-icons{
+    font-size: 25px;
+    padding: 0 30px;
+}

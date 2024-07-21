@@ -1,0 +1,34 @@
+.works-link{
+    text-decoration: none;
+    /* padding: 30px 60px; */
+}
+
+.imggg{
+    width: 20px !important;
+}
+
+.pagination-content{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.portfolio-wrapper{
+    position: relative;
+}
+
+.work-imgg{
+    display: block ;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+
+

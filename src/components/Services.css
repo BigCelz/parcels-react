@@ -1,0 +1,18 @@
+#services{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.holder{
+    margin-top: 50px;
+}
+
+.services-row{
+    margin-top: -40px;
+}
+
+.fas{
+    color: orangered;
+    margin-bottom: 20px;
+    font-size: 25px;
+}

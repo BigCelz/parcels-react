@@ -1,0 +1,16 @@
+#blog{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.btn-blog{
+    padding: 10px 40px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+
+
+.fa-chevron-right{
+    font-size: 15px;
+}
