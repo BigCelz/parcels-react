@@ -6,3 +6,7 @@
 .btn-holder{
     margin-top: 20px;
 }
+
+.no-border:not(:last-child) {
+    border-bottom: none;
+}
